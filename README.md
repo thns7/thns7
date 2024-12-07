@@ -33,7 +33,7 @@
   <img height="170px" src="https://github-readme-streak-stats.herokuapp.com?user=ThiNs7&theme=dark" />
 </div>
 <div align="center">
-  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=ThiNs7&theme=dark&show_icons=true&hide_border=true&count_private=true" />
+  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=ThiNs7&show_icons=true&theme=dark" />
   <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiNs7&theme=dark&show_icons=true&hide_border=true&layout=compact" />
 </div>
 
