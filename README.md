@@ -79,10 +79,4 @@
 
 <br>
 
-<div align="center">
-  <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fthns7&s=40&c=fa1d2f&bg=00000000&no=2&ff=digi&tb=PROFILE+VISITS%3A+&ta=" /></p> 
-</div>
-
-<br>
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FA1D2F&height=100&section=footer"/>
