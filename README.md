@@ -1,13 +1,11 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=FA1D2F"/>
-
-<br>
-
 <div align="center">
   <samp>
       <br>
       Hi there! I'm <b>Thiago Nascimento</b>
   </samp>
 </div>
+
 
 <div align="center" width="100%">
   <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=FA1D2F&width=900&size=22&center=true&lines=I'm+a+Software+Engineer.;I+look+forward+to+work+with+you!" alt="Typing SVG"/>
