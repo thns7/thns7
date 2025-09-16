@@ -3,8 +3,6 @@
 <br>
 
 <div align="center">
-  
-  <b>`プログラマ`</b>
   <samp>
       <br>
       Hi there! I'm <b>Thiago Nascimento</b>
